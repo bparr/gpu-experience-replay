@@ -1,4 +1,4 @@
-Deep In-GPU Experience Replay
+[Deep In-GPU Experience Replay](https://github.com/bparr/gpu-experience-replay/blob/master/report.pdf)
 
 Ben Parr
 
